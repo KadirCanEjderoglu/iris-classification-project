@@ -5,7 +5,7 @@
 **Source: UCI Machine Learning Repository**
 **Number of Rows:** 150  
 **Number of Columns:** 5
-***Exploratory Data Analysis and Summary Statistics**
+**Exploratory Data Analysis and Summary Statistics**
 
 Summary statistics of the dataset:
 
